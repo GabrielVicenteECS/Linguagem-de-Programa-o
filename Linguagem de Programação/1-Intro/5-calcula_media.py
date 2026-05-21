@@ -8,4 +8,4 @@ nota_3 = int(input("Digite o valor da nota 3: "))
 
 media = (nota_1 + nota_2 + nota_3) / 3
 
-print("A média do alino é : " , media)
+print("A média do aluno é: " , media)

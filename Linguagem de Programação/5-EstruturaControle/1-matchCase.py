@@ -14,7 +14,7 @@ match mes:
  case 6:
   print("Junho")
  case 7:
-  print("Julho)")
+  print("Julho")
  case 8:
   print("Agosto")
  case 9:
